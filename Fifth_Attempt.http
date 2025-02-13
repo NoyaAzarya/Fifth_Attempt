@@ -1,0 +1,6 @@
+@Fifth_Attempt_HostAddress = http://localhost:5069
+
+GET {{Fifth_Attempt_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
